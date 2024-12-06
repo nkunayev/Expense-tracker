@@ -1,5 +1,3 @@
-// File: ExpenseTracker.cpp
-
 #include <iostream>
 #include <fstream>
 #include <vector>
